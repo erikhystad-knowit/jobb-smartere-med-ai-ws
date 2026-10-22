@@ -225,6 +225,7 @@ or source meaningfully shifts the picture — not on every ingest.
 | `tidslinje.md` | korpus | Dated events, one line each, cited. |
 | `beslutninger.md` | korpus | Decision log: date · decision · who · basis (IDs) · status (gjeldende / endret / omgjort). |
 | `katalog.md` | korpus | Generated table of every item grouped by tema and thread — `korpus.py katalog <slug>`. Never hand-edit. |
+| `mandat/0N-<spørsmål>.md` | korpus | One page per question in the task mandate, answering it directly from the corpus: kort svar, evidence, contradictions, source quality, gaps, contribution to deliverables. Used when the task defines the questions up front. |
 | `tema/<tema>.md` | tema | One per topic. **The main synthesis unit.** 6–15 per case is the healthy range. |
 | `personer/<navn>.md` | person | One per person who matters: role, what they want, what they decided/committed to. |
 | `dokumenter/d-007-<navn>.md` | dokument | Only for `hoy` documents and `middels` ones substantial enough to need a summary. Others live in the catalog. |

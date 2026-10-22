@@ -50,7 +50,8 @@ _Ingen innsikter ennå._
 
 Sammendrag av innleste kilder fra `raw/`.
 
-_Ingen kilder ennå._
+- [[kilder/nordflow-oppgave|Nordflow – oppgavebeskrivelse]] — mandat fra CEO, fire spørsmål, fem leveranser og vurderingskriterier (24 timer). `slides` · 2026-09-17
+- [[kilder/nordflow-firmapresentasjon|Nordflow – firmapresentasjon 2026]] — to-siders profil av konsernet: 2 468 ansatte, 3 land, 4 tjenesteområder. `slides` · 2026
 
 <!-- Format: - [[kilder/navn|Tittel]] — ett linjes sammendrag. `kildetype` · YYYY-MM-DD -->
 
