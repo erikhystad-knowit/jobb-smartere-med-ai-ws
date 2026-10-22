@@ -17,9 +17,13 @@ tags: [korpus]
 
 ## Kontekst
 
-Oppgaven: få oversikt over 240 e-poster og 43 dokumenter. Formål, styrende spørsmål og rammer avklares i fase 1 og føres inn her.
-brukes til, hvilke spørsmål den måtte svare på, hva jeg visste fra før,
-rammer (tid, konfidensialitet, verktøy jeg fikk lov til å bruke).
+Kilde: [[kilder/nordflow-oppgave]].
+
+Oppgaven: Knowit-team på 24 timer som skal gi CEO Karin Eide råd om OneFlow før et ekstraordinært styremøte (17. september 2026 kl. 16.30, møtet er dagen etter). Kildene motsier hverandre og beslutninger kan ikke vente. Materialet er 240 e-poster og 43 dokumenter.
+
+**Ferdig betyr** fem leveranser på samme tall og med samme anbefaling: CEO-brief (maks 2 sider), lederpresentasjon (ca. 6 slides), 90-dagersplan, evidenslogg og AI-arbeidslogg. Vurdering: analyse og forståelse 30 %, evidens og grounding 20 %, beslutninger 20 %, agentisk arbeidsmåte 15 %, uavhengig review 15 %.
+
+Denne siden er AI-arbeidsloggen: hva som ble delegert til AI, og hva som ble brukt, forkastet eller endret.
 
 ## Hva jeg prøvde
 
