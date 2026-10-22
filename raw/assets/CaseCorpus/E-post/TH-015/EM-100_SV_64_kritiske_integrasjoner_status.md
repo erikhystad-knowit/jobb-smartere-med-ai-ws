@@ -1,0 +1,44 @@
+# SV: 64 kritiske integrasjoner – status
+
+**Fra:** lars.pettersen@nordflow.example
+**Til:** eleanor.price@synervia.example
+**Kopi:** mateo.ruiz@synervia.example, hakon.berg@nordflow.example
+**Sendt:** 2026-06-28T09:44:00+02:00
+**Emne:** SV: 64 kritiske integrasjoner – status
+
+Vi er enige i kategoriene, ikke alle plasseringene. Prisindeks og hendelseskø står som kundebeslutning hos dere, men feilene er i levert mapping. To av de tre endringene følger dessuten av nordisk avgiftskrav som lå i kontraktsvedlegget.
+
+Lars
+
+---
+
+<details>
+<summary>Tidligere meldinger i tråden</summary>
+
+**Fra:** eleanor.price@synervia.example  
+**Sendt:** 2026-06-27T13:18:00+02:00  
+**Til:** lars.pettersen@nordflow.example  
+**Emne:** RE: 64 critical integrations – status
+
+Lars,
+
+We agree on 21 not production-ready. Nine are blocked by process decisions, five by representative data, four by Convergent defects and three by approved change requests. We will provide build dates, but the customer dependencies must remain visible.
+
+Eleanor
+
+---
+
+**Fra:** lars.pettersen@nordflow.example  
+**Sendt:** 2026-06-27T11:05:00+02:00  
+**Til:** eleanor.price@synervia.example, mateo.ruiz@synervia.example  
+**Emne:** 64 kritiske integrasjoner – status
+
+Hei,
+
+Vi trenger felles status på de 64 kritiske integrasjonene. Vår opptelling viser 21 uten produksjonsklar build. Vennligst marker leverandørfeil, ventende Nordflow-beslutning, testdata og scope-endring separat.
+
+Lars
+
+---
+
+</details>

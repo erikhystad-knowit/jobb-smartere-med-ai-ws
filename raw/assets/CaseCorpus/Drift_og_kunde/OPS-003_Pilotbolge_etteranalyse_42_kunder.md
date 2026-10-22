@@ -1,0 +1,10 @@
+# Etteranalyse – pilotbølge med 42 kunder
+
+## Utfall
+Piloten ble redusert fra opprinnelig planlagte 286 kunder til 42. Av disse krevde 17 manuell fakturakontroll etter migrering, og 8 hadde portal- eller ordreavvik. Fakturakorreksjonsraten i pilotgruppen var 7,8 prosent. Ingen kunder fikk et systematisk totalhavari, og kritiske tjenester ble opprettholdt gjennom manuelle tiltak.
+
+## Årsaker
+Avvikene fordeler seg på uklare fakturamottakerfelt, pris-/servicekredittregler, identitetsmapping og uferdige integrasjoner. Både data, prosessbeslutninger og tekniske feil bidro.
+
+## Læring
+Piloten viser at teknisk cutover ikke er lik operativ readiness. Neste bølge bør ikke åpnes før ende-til-ende fakturakontroll, portaltilgang og eier for kundeavvik er bekreftet.

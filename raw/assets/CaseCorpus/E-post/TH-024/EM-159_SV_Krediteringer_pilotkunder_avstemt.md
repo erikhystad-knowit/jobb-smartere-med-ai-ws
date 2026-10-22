@@ -1,0 +1,40 @@
+# SV: Krediteringer pilotkunder – avstemt
+
+**Fra:** jonas.aas@nordflow.example
+**Til:** ragnhild.moen@nordflow.example, camilla.bruun@nordflow.example, mari.heggen@nordflow.example
+**Kopi:** sander.lie@nordflow.example, silje.tran@nordflow.example
+**Sendt:** 2026-09-09T10:12:00+02:00
+**Emne:** SV: Krediteringer pilotkunder – avstemt
+
+Avstemt tall er 3,6 mill. i bekreftet feilfakturering/servicekreditter med resultateffekt. Omposteringer er tatt ut. Saker for 1,7 mill. er merket med samme kontrakts-ID som Maris mulige eksponeringsliste; ikke summer disse to settene uten overlappskontroll.
+
+Jonas
+
+---
+
+<details>
+<summary>Tidligere meldinger i tråden</summary>
+
+**Fra:** jonas.aas@nordflow.example  
+**Sendt:** 2026-08-24T09:35:00+02:00  
+**Til:** ragnhild.moen@nordflow.example, camilla.bruun@nordflow.example  
+**Emne:** SV: Krediteringer pilotkunder
+
+Ja. Foreløpig bokført kreditering er 2,9 mill. I tillegg ligger 0,8 mill. til godkjenning. Vi må skille servicekreditt, feil pris og ren ompostering; sistnevnte er ikke resultatpåvirkning.
+
+Jonas
+
+---
+
+**Fra:** ragnhild.moen@nordflow.example  
+**Sendt:** 2026-08-23T16:40:00+02:00  
+**Til:** jonas.aas@nordflow.example, camilla.bruun@nordflow.example  
+**Emne:** Krediteringer pilotkunder
+
+Vi trenger én kontrollert oversikt over krediteringer og feilfakturering for de 42. Kundedrift har 31 saker, men noen gjelder samme faktura. Kan regnskap hente beløp og saks-ID?
+
+Ragnhild
+
+---
+
+</details>

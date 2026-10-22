@@ -1,0 +1,8 @@
+﻿Risiko,Registrert,Status,Eier,Konsekvens,Neste tiltak
+R-014 Migreringsverktøy,2026-02-18,Rød,Ole Martin Kvale,5 uker direkte leverandøravvik,Kreditt og ny plan
+R-026 Testdata,2026-03-21,Rød,Camilla Bruun,Blokkerer integrasjons- og regresjonstest,Representativt uttrekk
+R-031 Prosesseierbeslutninger,2026-04-24,Rød,Nora Steen,14 av 23 prosesser ikke godkjent,Portbeslutning
+R-044 Beslutningskø,2026-08-09,Rød,Thomas Vik,"Median 35,5 dager; kritisk sti flyttes",Fast beslutningsforum
+R-047 Kapasitetsgap,2026-08-18,Rød,Lene Falk,49 FTE gap; 37 overbelastet,Finansiere backfill
+R-051 Kundekonsekvens,2026-08-27,Rød,,"Faktura-, portal- og SLA-avvik",Samlet kunde-/inntektseier
+R-052 Datakvalitet fakturamottaker,2026-08-29,Rød,Camilla Bruun,"8,4 % aktive kontrakter uklare",Stans berørte cutover

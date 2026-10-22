@@ -1,0 +1,88 @@
+# SV: Cobalt-avvik fra konsernprosesser
+
+**Fra:** mikkel.sorensen@nordflow.example
+**Til:** nora.steen@nordflow.example
+**Kopi:** beate.hoyer@nordflow.example
+**Sendt:** 2026-08-07T14:25:00+02:00
+**Emne:** SV: Cobalt-avvik fra konsernprosesser
+
+Vi kan akseptere felles portal og segmentmodell dersom dispatch beholdes lokalt i første fase. Men de fire kontraktspunktene må løses før migrering. Jeg vil ikke ha dem omtalt som generell endringsmotstand i styringsmaterialet.
+
+Mikkel
+
+---
+
+<details>
+<summary>Tidligere meldinger i tråden</summary>
+
+**Fra:** beate.hoyer@nordflow.example  
+**Sendt:** 2026-06-18T08:42:00+02:00  
+**Til:** nora.steen@nordflow.example, mikkel.sorensen@nordflow.example  
+**Emne:** SV: Cobalt-avvik fra konsernprosesser
+
+Oppdatert gjennomgang: fire spørsmål må fortsatt behandles som åpne kontraktskrav – indeksvarsling, dokumentasjon av servicevindu, separat fakturamottaker og lokal oppsigelsesprosedyre. For øvrige ønsker har vi ikke funnet lov- eller kontraktsgrunnlag. Det kan fortsatt finnes et forretningsmessig argument.
+
+Beate
+
+---
+
+**Fra:** mikkel.sorensen@nordflow.example  
+**Sendt:** 2026-03-16T13:33:00+01:00  
+**Til:** nora.steen@nordflow.example, beate.hoyer@nordflow.example  
+**Emne:** SV: Cobalt-avvik fra konsernprosesser
+
+Jeg forstår sondringen, men en juridisk minimumsløsning er ikke nødvendigvis god drift. Lokal dispatch og godkendelsesgrænser er en del af måten vi leverer hurtig på. Hvis alt avgjøres i Oslo, mister vi både tempo og ansvar.
+
+Mikkel
+
+---
+
+**Fra:** beate.hoyer@nordflow.example  
+**Sendt:** 2026-02-02T10:17:00+01:00  
+**Til:** nora.steen@nordflow.example, mikkel.sorensen@nordflow.example  
+**Emne:** SV: Cobalt-avvik fra konsernprosesser
+
+Foreløpig vurdering: indeksvarsling og fakturamottaker ser kontraktsmessig reelle ut. Servicevindu og oppsigelse må undersøkes per kontraktsfamilie. De øvrige punktene er kommersielle/designvalg, ikke eksterne krav slik dokumentasjonen står nå.
+
+Beate
+
+---
+
+**Fra:** nora.steen@nordflow.example  
+**Sendt:** 2025-11-06T15:51:00+01:00  
+**Til:** mikkel.sorensen@nordflow.example  
+**Emne:** SV: Cobalt-avvik fra konsernprosesser
+
+Takk. De fire første sender vi juridisk/kontraktsfaglig. For dispatch, fullmakter, segmenter og portal trenger vi dokumentert effekt og alternativ, ikke bare dagens praksis. Det betyr ikke at de avvises, men de har et annet beslutningsgrunnlag.
+
+Nora
+
+---
+
+**Fra:** mikkel.sorensen@nordflow.example  
+**Sendt:** 2025-11-03T11:38:00+01:00  
+**Til:** nora.steen@nordflow.example  
+**Emne:** SV: Cobalt-avvik fra konsernprosesser
+
+Hej Nora,
+
+De vigtigste er varsling ved indeksregulering, dokumentation af servicevinduer, særskilt fakturamodtager på rammeaftaler og lokal opsigelsesprocedure. Dertil kommer dansk dispatch, lokale godkendelsesgrænser, kundesegmenter og vores nuværende portalflow. For kunderne hænger det sammen; vi kan ikke bare standardisere halvdelen.
+
+Mikkel
+
+---
+
+**Fra:** nora.steen@nordflow.example  
+**Sendt:** 2025-11-03T09:06:00+01:00  
+**Til:** mikkel.sorensen@nordflow.example  
+**Emne:** Cobalt-avvik fra konsernprosesser
+
+Mikkel,
+
+Kan du samle de danske avvikene med henvisning til kontrakt, lovkrav eller dokumentert kundebehov? Vi har nå 17 ønsker i ulike presentasjoner, og flere overlapper. Målet er å skille nødvendige unntak fra lokale preferanser.
+
+Nora
+
+---
+
+</details>

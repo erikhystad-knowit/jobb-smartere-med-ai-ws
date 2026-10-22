@@ -1,0 +1,10 @@
+# OneFlow Recovery Baseline – mars 2026
+
+## Bakgrunn
+Tidlige avvik i migreringsverktøy, prosessavklaringer og intern kapasitet krever ny styringsbasis. Recovery-planen flytter fullføring til 28. februar 2027 og setter rapportert prognose til 395 mill. kroner. Baseline er godkjent i styringsgruppen, men er ikke behandlet som ny investeringsramme av styret.
+
+## Endret måling
+Flere milepæler måles nå som «teknisk klar for test» fremfor godkjent ende-til-ende-leveranse. Migreringsbølger kan regnes på plan dersom et redusert pilotutvalg kan flyttes. Umodne risikoer holdes i reserveoversikten til tiltak er besluttet.
+
+## Tiltak
+Ukentlig leverandørrecovery, raskere beslutningsmøter, syntetiske testdata og lokal Cobalt-dialog. Planen forutsetter prosessbeslutninger innen syv dager og stabile krav fra april. Dersom disse forutsetningene ikke oppfylles, skal dato og kostnad vurderes på nytt.

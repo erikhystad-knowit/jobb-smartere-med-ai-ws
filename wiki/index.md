@@ -18,9 +18,11 @@ Les denne først når du leter etter noe.
 
 Konkrete arbeidsoppgaver hvor AI er tatt i bruk. Kjernen i wikien.
 
-_Ingen caser ennå._
+- [[caser/nordflow/oversikt|Nordflow – OneFlow]] — oversikt over 240 e-poster og 43 dokumenter (styre, økonomi, drift, leverandør). Metode: [[caser/nordflow/case|case]]. `paagaaende` · 2026-10-22
 
-<!-- Format: - [[caser/navn|Tittel]] — ett linjes sammendrag. `status` · YYYY-MM-DD -->
+<!-- Små caser: - [[caser/navn|Tittel]] — ett linjes sammendrag. `status` · YYYY-MM-DD -->
+<!-- Korpus-caser: - [[caser/slug/oversikt|Tittel]] — ett linjes sammendrag. N e-poster, K dokumenter. Metode: [[caser/slug/case|case]]. `status` · YYYY-MM-DD
+     Temaer, personer og dokumenter i et korpus-case indekseres i casets egen oversikt, ikke her. -->
 
 ## Teknikker
 
@@ -59,3 +61,4 @@ _Ingen kilder ennå._
 - [[maler/teknikk|Mal: teknikk]]
 - [[maler/verktoy|Mal: verktøy]]
 - [[maler/innsikt|Mal: innsikt]]
+- Korpus-caser: [[maler/korpus/oversikt|oversikt]] · [[maler/korpus/case|case]] · [[maler/korpus/tema|tema]] · [[maler/korpus/person|person]] · [[maler/korpus/dokument|dokument]] · [[maler/korpus/sporsmal|spørsmål]] · [[maler/korpus/tidslinje|tidslinje]] · [[maler/korpus/beslutninger|beslutninger]]

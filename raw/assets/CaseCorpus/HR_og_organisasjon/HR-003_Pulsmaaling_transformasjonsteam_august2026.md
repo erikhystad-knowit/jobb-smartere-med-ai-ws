@@ -1,0 +1,5 @@
+# Pulsmåling transformasjonsteam – august 2026
+
+Svarprosenten var 71 prosent. «Jeg forstår prioriteringene» scorer 48 av 100, «arbeidsbelastningen er bærekraftig» 39, «beslutninger tas raskt nok» 32 og «jeg tror planen er realistisk» 36. Programnære team ligger 14–21 poeng under konsernsnittet.
+
+Friteksttemaene er hyppige omkamper, dobbelt linje-/programansvar, lite tid til kvalitet og uklarhet om hvem som bestemmer. Danske respondenter nevner også identitet og lokale kundekrav. Målingen dokumenterer belastning og svekket motivasjon, men fastslår ikke at motivasjon er den primære årsaken til forsinkelsen. HR anbefaler prioriteringsavklaring, kapasitetsvern og tydeligere roller før en ny kommunikasjonskampanje.

@@ -1,0 +1,5 @@
+﻿Scenario,Lav,Base foreløpig,Høy,Forutsetninger
+Sluttkostnad,455,459,494,Kreditt fortsatt antatt; data/test/stabilisering varierer
+Ferdigstillelse,2027-04-30,2027-06-30,2027-09-30,Scope ikke fullt fryst
+Leverandørkreditt,-34,-34,-22,Ikke avtalt
+Risikoreserve,12,16,31,Avhenger av pilot og kontraktsdata

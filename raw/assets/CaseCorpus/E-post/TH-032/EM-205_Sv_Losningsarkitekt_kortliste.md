@@ -1,0 +1,53 @@
+# Sv: Løsningsarkitekt – kortliste
+
+**Fra:** sofia.lindberg@nordflow.example
+**Til:** rekruttering@nordflow.example
+**Kopi:** amina.rahman@nordflow.example, lene.falk@nordflow.example
+**Sendt:** 2026-08-25T09:09:00+02:00
+**Emne:** Sv: Løsningsarkitekt – kortliste
+
+Vi går videre med kandidat 2. Viktig at tilbudet beskriver produktområdet og Göteborg/Stockholm-reisingen korrekt. Ikke bruk OneFlow som hovedbegrunnelse; det er bare en av grenseflatene.
+
+Sofia
+
+---
+
+<details>
+<summary>Tidligere meldinger i tråden</summary>
+
+**Fra:** rekruttering@nordflow.example  
+**Sendt:** 2026-08-18T16:31:00+02:00  
+**Til:** amina.rahman@nordflow.example, sofia.lindberg@nordflow.example  
+**Emne:** Sv: Løsningsarkitekt – kortliste
+
+Begge intervjuene er gjennomført. Kandidat 2 kan starte 1. november, kandidat 3 har tre måneders oppsigelse. Lønnsforventningene er innenfor rammen.
+
+Kan dere sende vurderingsskjema innen fredag?
+
+---
+
+**Fra:** amina.rahman@nordflow.example  
+**Sendt:** 2026-08-05T07:58:00+02:00  
+**Til:** rekruttering@nordflow.example  
+**Emne:** Sv: Løsningsarkitekt – kortliste
+
+Ta inn kandidat 2 og 3. Rollen er fast i Digital Solutions, ikke en OneFlow-rolle, selv om vedkommende må kunne samarbeide med konsernarkitektur.
+
+Amina
+
+---
+
+**Fra:** rekruttering@nordflow.example  
+**Sendt:** 2026-08-04T12:14:00+02:00  
+**Til:** amina.rahman@nordflow.example  
+**Emne:** Løsningsarkitekt – kortliste
+
+Hei Amina,
+
+Byrået har sendt tre profiler til rollen som løsningsarkitekt i Digital Solutions. To har god Azure/integrasjon, én er sterkest på produktarkitektur. Kan du markere hvem du vil møte?
+
+Mvh rekruttering
+
+---
+
+</details>

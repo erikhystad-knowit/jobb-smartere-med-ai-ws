@@ -1,0 +1,7 @@
+﻿Kontrollpost,Beløp mill.,Regnskapseffekt,Kommentar
+Fakturerbare ordre >45 dager,"16,8",Timing/arbeidskapital,Ikke nødvendigvis tap
+Bekreftet pilotkreditering,"3,6",Bekreftet resultateffekt,Feil fakturamottaker/pris/SLA
+Mulig kontraktseksponering,"8,9","Risiko, ikke bokført","Prisindeks, servicekreditt, avtaledata"
+Overlapp mot bekreftet kreditering,"-1,7",Trekkes fra brutto,Felles saks-ID-er
+Kjent og mulig bruttoeksponering,"27,6",Blandet,"16,8 + 3,6 + 8,9 - 1,7"
+Ytterligere tapsrisiko,"7,2",Mulig,"8,9 - 1,7"

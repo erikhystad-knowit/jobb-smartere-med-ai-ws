@@ -1,0 +1,55 @@
+# Sv: Aarhus-workshop 8.–9. september – reise
+
+**Fra:** mikkel.sorensen@nordflow.example
+**Til:** nora.steen@nordflow.example, julie.nystad@nordflow.example
+**Kopi:** freja.nielsen@nordflow.example
+**Sendt:** 2026-09-06T16:34:00+02:00
+**Emne:** Sv: Aarhus-workshop 8.–9. september – reise
+
+God plan. Jeg tager toget og møder jer ved Dokk1 kl. 10.45. Husk at vi har kundebesøg onsdag kl. 13, så fakturagrundlag bør ligge tirsdag.
+
+Mikkel
+
+---
+
+<details>
+<summary>Tidligere meldinger i tråden</summary>
+
+**Fra:** pmo@nordflow.example  
+**Sendt:** 2026-09-01T09:18:00+02:00  
+**Til:** julie.nystad@nordflow.example, nora.steen@nordflow.example  
+**Emne:** Sv: Aarhus-workshop 8.–9. september – reise
+
+Fly og hotell er bestilt. Leiebil hentes i Billund; Nora står som sjåfør. Kalenderinvitasjon er oppdatert med hotelladresse og agenda.
+
+PMO
+
+---
+
+**Fra:** julie.nystad@nordflow.example  
+**Sendt:** 2026-08-31T08:07:00+02:00  
+**Til:** pmo@nordflow.example  
+**Emne:** Fwd: Aarhus-workshop 8.–9. september – reise
+
+Kan dere bestille for Nora og meg etter reisepolicy, fleksibel retur onsdag kveld. Mikkel reiser fra København selv. Koststed OF-PROCESS.
+
+Julie
+
+---
+
+**Fra:** nora.steen@nordflow.example  
+**Sendt:** 2026-08-30T18:12:00+02:00  
+**Til:** julie.nystad@nordflow.example, mikkel.sorensen@nordflow.example  
+**Emne:** Aarhus-workshop 8.–9. september – reise
+
+Hei,
+
+Jeg foreslår morgenfly til Billund tirsdag og bil videre. Workshop starter 11.00. Tema er serviceordre, fakturagrunnlag og lokale kontrollpunkter. Dette er arbeidsmøte, ikke beslutningsforum.
+
+Kan PMO bestille hotell nær Dokk1?
+
+Nora
+
+---
+
+</details>
